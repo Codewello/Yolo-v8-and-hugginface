@@ -1,6 +1,6 @@
 ## YOLOv8 Custom Object Detection and Deployment on Hugging Face
 
-This repository presents a custom object detection solution using YOLOv8 and Ultralytics, along with deployment on Hugging Face.
+This repository presents a custom object detection solution using YOLOv8 and UltralyticsPlus, along with deployment on Hugging Face.
 
 ## Steps
 
@@ -8,7 +8,7 @@ This repository presents a custom object detection solution using YOLOv8 and Ult
 2. Create a virtual environment.
 3. Gather the dataset for training.
 4. Annotate the collected images.
-5. Set up YOLOv8 (Ultralytics).
+5. Set up YOLOv8 (UltralyticsPlus).
 6. Train the model.
 7. Evaluate and test the trained model.
 8. Deploy the model on Hugging Face.
@@ -21,6 +21,7 @@ This project utilizes a combination of open source and proprietary tools to achi
 - [Anaconda](https://www.anaconda.com/) - Environment management.
 - [Simple Image Download](https://pypi.org/project/simple-image-download/) - Image collection.
 - [LabelImg](https://pypi.org/project/labelImg/) - Dataset annotation.
+- [Ultralyticsplus](https://github.com/fcakyon/ultralyticsplus) - for yolov8 and easy deployment on huggingface
 - [Hugging Face](https://huggingface.co/) - Model deployment.
 
 ## Usage
