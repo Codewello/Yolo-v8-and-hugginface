@@ -1,0 +1,9 @@
+path: 'D:\codewello\yolo-safety-env\code\data'
+train: images/train
+val: images/train
+
+nc: 2
+
+names:
+  0: Hat
+  1: Jacket 

@@ -1,0 +1,3 @@
+gradio==3.39.0
+torch
+ultralyticsplus==0.0.28
